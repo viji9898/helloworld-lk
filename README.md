@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # 🤪 Start Here
 
 ### What is the course? <a href="#lecture_heading" id="lecture_heading"></a>
